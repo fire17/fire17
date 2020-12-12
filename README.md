@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on --- Cool Opensource Projects 
 
 - 💬 Ask me about --- Hiring, Site building, Music, and anything in general :D
-- 📫 How to reach me: --- [akeyo.io/tami](akeyo.io/tami)
 
-Hope to hear from you! 💚💛💜
+
+Hope to hear from you! 💚💛💜 <br/>
+[akeyo.io/tami](akeyo.io/tami)
