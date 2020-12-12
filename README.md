@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on --- [WhatsappReminder](github.com/wholesomegarden/WhatsappReminder)
+- 🔭 I’m currently working on --- [WhatsappReminder](https://github.com/wholesomegarden/WhatsappReminder)
 
 - 🌱 I’m currently learning --- FE, DevOps, ML
 
